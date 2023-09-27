@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "fv",
+    "Email": "wrg",
+    "Password": "wrg",
+    "PhoneNumber": "wv",
+    "Lacation": null,
+    "Id": 2,
+    "CreatedAt": "2023-09-27T05:49:12.5435167Z",
+    "UpdatedAt": null
+  },
+  {
+    "Name": "Asassd",
+    "Email": "kaoakak",
+    "Password": "uhujbvbdf",
+    "PhoneNumber": "91680644",
+    "Lacation": null,
+    "Id": 3,
+    "CreatedAt": "2023-09-27T06:22:55.0754792Z",
+    "UpdatedAt": null
+  }
+]
