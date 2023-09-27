@@ -18,5 +18,15 @@
     "Id": 3,
     "CreatedAt": "2023-09-27T06:22:55.0754792Z",
     "UpdatedAt": null
+  },
+  {
+    "Name": "Dilshodov",
+    "Email": "ZiyodullohDilshodov@gmail.com",
+    "Password": "45446464",
+    "PhoneNumber": "+998916806404",
+    "Lacation": null,
+    "Id": 4,
+    "CreatedAt": "2023-09-27T07:52:18.3478434Z",
+    "UpdatedAt": null
   }
 ]
